@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name mi.com v3 UPDATE BISMILAH LURD
+// @name mi.com v4 UPDATE BISMILAH LURD
 // @namespace rhe
 // @match *://*/*
 // @grant none
@@ -14,7 +14,7 @@
     var skipInt2;
     var log=function(msg){
       // console.log (msg);
-      console.log("Inject " + msg + " " + d);
+      console.log("Inject update lurdd " + msg + " " + d);
     };
 // disini + CLOSE
     var skipAd1=function(){
