@@ -49,7 +49,6 @@
     };
 
    
-
     skipAd1();
     skipAd();
   
